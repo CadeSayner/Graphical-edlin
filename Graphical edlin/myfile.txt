@@ -1,0 +1,15 @@
+a 1 5 5 rectangle 10 10
+a 2 3 3 hline 14
+a 3 3 16 hline 14
+a 4 3 3 vline 14
+a 5 16 3 vline 14
+w
+d 1
+m 2 3 5
+m 3 3 14
+m 4 5 3
+m 5 14 3
+a 6 6 6 ptline 13 13
+a 6 13 6 ptline 6 13
+w
+x
